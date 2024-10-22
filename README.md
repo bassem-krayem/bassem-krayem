@@ -3,7 +3,7 @@ i am currently studying software engineering in holbertonschool
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bassem-krayem) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bassem-krayem) <br>
 [Telegram](https://t.me/bassem_krayem/)
 
 # 💻 Tech Stack:
